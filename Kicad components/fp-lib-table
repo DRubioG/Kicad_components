@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Microsemi")(type "KiCad")(uri "${KIPRJMOD}/Microsemi.pretty")(options "")(descr ""))
+)
